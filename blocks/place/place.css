@@ -22,6 +22,7 @@
 
 @media screen and (max-width: 767px){
     .place{
+        gap: 0;
         display: flex;
         margin-bottom: 48px;
         flex-direction: column;
