@@ -24,7 +24,7 @@
     .place{
         gap: 0;
         display: flex;
-        margin-bottom: 48px;
+        margin-bottom: 50px;
         flex-direction: column;
     }
 }
