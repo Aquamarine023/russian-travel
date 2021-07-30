@@ -29,7 +29,7 @@
 
 @media screen and (max-width: 767px) {
     .place__paragraph {
-        padding: 0 16px 16px 25px;
+        padding-left: 16px;
         max-width: 288px;
     }
 }
